@@ -2,9 +2,9 @@ class Person
 
   def talk
     puts "Hello World!"
-  end 
+  end
 
-  def sit  
+  def sit
     puts "The Person is walking"
-  end 
+  end
 end
